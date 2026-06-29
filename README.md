@@ -1359,18 +1359,22 @@ The data proves that Swiggy’s main challenge is **retention**, not acquisition
 * **Deployment:** Docker, Flask, and Cloud Hosting.
 
 ---
-© 2026 Pralhad | [Portfolio](https://github.com/parlhad)
+© 2026 Lokesh Pandey | [GitHub](https://github.com/Lokesh7-pqndey)
 ---
 
 
 
-## 📮 Contact
+## ## 📮 Contact
 
-Feel free to connect with me for feedback, collaborations, or internships:
+Feel free to connect with me for feedback, collaborations, job opportunities, or internships:
 
-- 📧 **Email:** [parlhadjadhav7@gmail.com]  
-- 💼 **LinkedIn:** [www.linkedin.com/in/pralhad-jadhav-]
+- 📧 **Email:** pandeylokesh87@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lokesh-pandey-2265b5218
+- 💻 **GitHub:** https://github.com/Lokesh7-pqndey
+- 🌐 **Portfolio:** https://lokeshpandey-portfolio.netlify.app
 
 ---
 
-⭐ If you found this project useful, feel free to star the repo!
+⭐ If you found this project useful, please consider giving it a star!
+
+© 2026 Lokesh Pandey | Portfolio
